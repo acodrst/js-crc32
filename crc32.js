@@ -1,4 +1,4 @@
-/*! crc32.js (C) 2014-present SheetJS -- http://sheetjs.com */
+/*! crc32.js (C) 2014-present SheetJS -- http://sheetjs.com * minor hacks by acodrst/
 function signed_crc_table() {
   var c = 0, table = new Array(256);
 
