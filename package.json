@@ -7,15 +7,7 @@
 		"crc32": "bin/crc32.njs"
 	},
 	"main": "crc32.js",
-	"module": "crc32.mjs",
-	"types": "types/index.d.ts",
 	"repository": { "type": "git", "url": "git@github.com:acodrst/js-crc32.git" },
-	"config": {
-		"blanket": {
-			"pattern": "crc32.js"
-		}
-	},
 	"homepage": "https://sheetjs.com/",
-	"files": ["crc32.js", "LICENSE", "README.md", "types/index.d.ts", "types/*.json"],
 	"license": "Apache-2.0"
 }
